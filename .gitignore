@@ -1,0 +1,11 @@
+.idea
+public/.htaccess
+
+###> symfony/framework-bundle ###
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> symfony/webpack-encore-pack ###
+/node_modules/
+###< symfony/webpack-encore-pack ###
